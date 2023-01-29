@@ -1,3 +1,6 @@
+This repository has been archived.
+See [mruby-esp32/mruby-esp32-mqtt](https://github.com/mruby-esp32/mruby-esp32-mqtt) .
+
 # mruby-esp32-mqtt
 
 MQTT library for mruby-esp32.
